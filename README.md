@@ -1,6 +1,6 @@
 # Techdegree-Project-5
 Public API Requests
-
+[Live Link](https://marie-ehrman.github.io/Employee_Directory_API_Requests/)
 ## jQuery/JS
 
 ### Functionality
